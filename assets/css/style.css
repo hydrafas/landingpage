@@ -1,0 +1,14 @@
+.carousel-item {
+    height: 600px;
+}
+
+.separator {
+    width: 30%;
+    margin: 10px auto;
+}
+
+.navbar li {
+    display: inline;
+    padding-left: 10px;
+    border-left: solid 1px grey;
+}
